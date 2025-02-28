@@ -67,3 +67,4 @@ group :test do
   gem "selenium-webdriver"
 end
 gem 'devise'
+gem 'rspec-rails', '~> 6.1.0'

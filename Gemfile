@@ -66,5 +66,10 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
 gem 'devise'
 gem 'rspec-rails', '~> 6.1.0'
+
+
+gem 'devise', '4.9.4'
+
